@@ -13,7 +13,13 @@ button {
   text-align: left;
 }
 
-button:hover,
+
+
+button:hover{
+  background-color: #cbb5e9;
+  color: #150722;
+}
+
 button:active,
 .active {
   background-color: #9965dd;
